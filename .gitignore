@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pycharm specific things and the secret folder with competition data
+.idea/
+secret/
